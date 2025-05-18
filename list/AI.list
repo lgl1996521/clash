@@ -6,6 +6,9 @@
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,suno.com
+DOMAIN-SUFFIX,remusic.ai
+DOMAIN-SUFFIX,aisonggenerator.ai
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
